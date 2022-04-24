@@ -1,6 +1,6 @@
 # Cairo System Dynamics
 
-(c) 2017-2018 Nuno Ferreira
+(c) 2017-2022 Nuno Ferreira
 
 License: GNU General Public License version 3 or later
 
