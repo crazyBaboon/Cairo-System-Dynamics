@@ -2,7 +2,7 @@
 
 (c) 2017-2022 Nuno Ferreira
 
-License: GNU General Public License version 3.
+License: GNU General Public License version 2 or later.
 
 ## About
 
