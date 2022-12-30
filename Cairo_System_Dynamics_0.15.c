@@ -19,7 +19,7 @@
 #include <gtk/gtk.h>
 #include <math.h>
 
-/* Compile on Unix-like systems: gcc Cairo_System_Dynamics_0.15.c -lm -o Cairo_System_Dynamics `pkg-config --cflags --libs gtk+-3.0` && ./Cairo_System_Dynamics */
+/* Compile on Unix-like systems: gcc Cairo_System_Dynamics_0.15.c -lm -o Cairo_System_Dynamics -Wall -Wextra -O2 `pkg-config --cflags --libs gtk+-3.0` && ./Cairo_System_Dynamics */
 
 void memory_delete();
 
