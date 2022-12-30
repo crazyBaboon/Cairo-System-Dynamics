@@ -1,5 +1,5 @@
 /*
- * Copyright (C)2017-2018 Nuno Ferreira
+ * Copyright (C)2017-2022 Nuno Ferreira
  *
  * Cairo System Dynamics is  free software; you can redistribute  it and/or
  * modify it under the  terms of the GNU General  Public License as published
