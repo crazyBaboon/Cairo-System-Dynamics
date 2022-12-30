@@ -459,9 +459,9 @@ static void do_drawing2(cairo_t *cr){
     static gint count = 0;
     int Lx = global_settings.IMAGE_WIDTH - 12;
     
-    static int time_series[500];
-    static int time_series2[500];
-    static int time_series3[500];
+    static int time_series[501];
+    static int time_series2[501];
+    static int time_series3[501];
     
     int n;
     
